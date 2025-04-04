@@ -1,9 +1,9 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://your-banner-image-url.com" alt="Your Name" width="100%" />
+  <img src="https://your-banner-image-url.com" alt="Raman Patra" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm [Raman Patra] 👋</h1>
 
 <p align="center">
   <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-YourWebsite-blue?style=for-the-badge"></a>
